@@ -62,36 +62,40 @@ or in IntelliJ Right Click the project and select Run all test cases.
 # Screenshots
 
 POST Register
-![Screenshot (211)](https://github.com/Ajaypratap4015/WishListManagment/assets/68500595/236da3f4-f3bb-41f1-97e8-781b35811816)
+![Screenshot (211)](https://github.com/Ajaypratap4015/WishListManagment/assets/68500595/d23f0e97-741e-4a3a-9b3a-210bb7e89606)
 
 
 POST Login
-![Screenshot (212)](https://github.com/Ajaypratap4015/WishListManagment/assets/68500595/ad3ee353-086a-4f00-ba29-e2f1f574e25b)
+![Screenshot (212)](https://github.com/Ajaypratap4015/WishListManagment/assets/68500595/2e08f81e-ba88-4fd1-8881-b4347c4503ad)
+
 
 
 POST CreateWishList
-![Screenshot (213)](https://github.com/Ajaypratap4015/WishListManagment/assets/68500595/5d40a605-7c2e-4948-9790-7b242104d827)
+![Screenshot (213)](https://github.com/Ajaypratap4015/WishListManagment/assets/68500595/358de121-9bbc-4a04-9fb7-236cb4fe1e72)
+
 
 
 GET UserWishlist
-![Screenshot (214)](https://github.com/Ajaypratap4015/WishListManagment/assets/68500595/9cf6ebcb-59b8-4ffc-9e8d-6ce95a79c08a)
+
+![Screenshot (214)](https://github.com/Ajaypratap4015/WishListManagment/assets/68500595/24d588af-2a99-47ea-9bd3-881c163ff9aa)
 
 
 DELETE RemoveWishlist
-![Screenshot (215)](https://github.com/Ajaypratap4015/WishListManagment/assets/68500595/9cd21cda-e9ff-4e50-b213-3e582870cbf4)
+
+![Screenshot (215)](https://github.com/Ajaypratap4015/WishListManagment/assets/68500595/ddf4bb35-c158-46b0-bc3d-2ca5b4fb38dc)
 
 
 POST CreateWishlistItem
+![Screenshot (216)](https://github.com/Ajaypratap4015/WishListManagment/assets/68500595/880124b9-3567-4466-a9f9-0d7a0638dfa4)
 
-![Screenshot (216)](https://github.com/Ajaypratap4015/WishListManagment/assets/68500595/212ac52e-94bf-408b-8378-45b079337256)
 
 
 DELETE RemoveWishListItem
+![Screenshot (217)](https://github.com/Ajaypratap4015/WishListManagment/assets/68500595/0f06390c-4a4d-4913-8fc8-110e51f46d38)
 
-![Screenshot (217)](https://github.com/Ajaypratap4015/WishListManagment/assets/68500595/db8f3d99-874e-4e4a-94a2-1405c442186d)
 
 
 GET AllItemInWishlist
 
-![Screenshot (218)](https://github.com/Ajaypratap4015/WishListManagment/assets/68500595/b984ad91-42e4-4015-a434-21f2ca8492c0)
+![Screenshot (218)](https://github.com/Ajaypratap4015/WishListManagment/assets/68500595/41aedb50-ade4-4df5-9959-b19c30b6d84b)
 
